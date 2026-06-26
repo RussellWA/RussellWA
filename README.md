@@ -17,20 +17,17 @@ I'm a Full Stack Developer with a strong focus on building scalable web applicat
 
 ---
 
-### Tech Stack & Tools
+## 🛠️ Languages and Tools
 
-**Frontend:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-
-**Backend & Database:**
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Other Technologies:**
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+<br>
+  <p align="center">
+    <!-- Frontend & Design -->
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,framer" />
+    <br><br>
+    <!-- Backend, Database & Game Dev -->
+    <img src="https://skillicons.dev/icons?i=go,supabase,postgres,godot,git" />
+  </p>
+<hr>
 
 ---
 
