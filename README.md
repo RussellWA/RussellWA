@@ -4,7 +4,7 @@ I'm a Full Stack Developer with a strong focus on building scalable web applicat
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/russellwa/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/RussellWA/count.svg" alt="Visitor's Count" />
 </div>
 
 <!--
