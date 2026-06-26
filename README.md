@@ -21,11 +21,11 @@ I'm a Full Stack Developer with a strong focus on building scalable web applicat
 
 <br>
   <p align="center">
-    <!-- Frontend & Design -->
     <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,framer" />
     <br><br>
-    <!-- Backend, Database & Game Dev -->
-    <img src="https://skillicons.dev/icons?i=go,supabase,postgres,godot,git" />
+    <img src="https://skillicons.dev/icons?i=go,supabase,git,postman" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=godot,vercel,vscode" />
   </p>
 <hr>
 
