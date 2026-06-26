@@ -1,5 +1,12 @@
 # Hi there, I'm Russell 👋
 
+I'm a Full Stack Developer with a strong focus on building scalable web applications, robust system architectures, and seamless user interfaces.
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
+
 <!--
 **RussellWA/RussellWA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
