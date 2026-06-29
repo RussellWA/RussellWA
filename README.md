@@ -4,14 +4,14 @@ My name is Russell,
 I'm a Full Stack Developer with a strong focus on building scalable web applications, robust system architectures, and seamless user interfaces. 
 
 ### About Me
-- **Primary Focus:** Specializing in **React**, **TypeScript**, and **Next.js** to build high-performance frontends and web applications.
+- **Primary Focus:** Specializing in **React**, **TypeScript**, and **Next.js** to build high performance frontends and web applications.
 - **Current Projects:** 
-  - Developing a web-based **Point of Sale (POS) system** with real-time payment integrations.
-  - Building an automated **invoice and receipt data extractor** MVP for small businesses.
+  - Developing a custom web based **Point of Sale (POS) system** and **Caddy Tracking** for a golf course business.
+  - Building an **invoice and receipt data extractor** MVP for a laundromat business.
 - **Exploring:**
   - Game development and level design using the **Godot** engine.
   - Security for web applications.
-  - Lots of stuff regarding AI.
+  - AI.
 - **Portfolio:** Check out my detailed work at [russellwa.com](https://russellwa.com).
 
 ---
