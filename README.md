@@ -8,7 +8,6 @@ I'm a Full Stack Developer with a strong focus on building scalable web applicat
 - **Current Projects:** 
   - Developing a web-based **Point of Sale (POS) system** with real-time payment integrations.
   - Building an automated **invoice and receipt data extractor** MVP for small businesses.
-  - Designing a **D&D Item Manager** featuring custom animations and state management.
 - **Exploring:**
   - Game development and level design using the **Godot** engine.
   - Security for web applications.
