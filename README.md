@@ -19,11 +19,11 @@ I'm a Full Stack Developer with a strong focus on building scalable web applicat
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=go,supabase,postman" />
+  <img src="https://skillicons.dev/icons?i=go,supabase,postgres,postman" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=godot,vercel,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,godot,vercel" />
 </p>
 
 <hr>
